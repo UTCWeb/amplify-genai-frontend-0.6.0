@@ -121,9 +121,10 @@ If you have any questions, feel free to reach out to Mckay on [Twitter](https://
 # ChattUTC
 
 Updated 7/2/2025
+
 In order to limit the number of custom file changes, most .tsx files remain intact with the exception of a few that require customization. The custom branding take place mostly in the global.css and tailwindcss.config.js files, which affect the classes in untouched tsx files. This PR applies to dark mode only.
 
-[New release v1.1](https://github.com/UTCWeb/amplify-genai-frontend-0.6.0/releases/tag/v1.1)
+[New release v1.2](https://github.com/UTCWeb/amplify-genai-frontend-0.6.0/releases/tag/v1.2)
 
 ### Affected Files
 
